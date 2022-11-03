@@ -7,7 +7,7 @@
 
 
 ### Model
-Ordinary linear regression
-RidgeCV regression
-LassoCV regression
+Ordinary linear regression </br>
+RidgeCV regression </br>
+LassoCV regression </br>
 
